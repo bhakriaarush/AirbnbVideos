@@ -1,55 +1,51 @@
-**Promo Video**
-https://github.com/user-attachments/assets/36c920e7-5a15-4ec2-8b20-0d4c259d5f56
-# Airbnb Video Reels 🏡
+# 🏡 Airbnb Video Reels
 
-A collection of short-form video content created for Airbnb-style property promotion, showcasing the potential of video marketing for vacation rentals and homestays.
+**Short-Form Property Promotions · Hospitality Marketing · Video Portfolio**
 
-## 📌 About the Project
+A portfolio of short promotional videos exploring visual storytelling for vacation rentals, homestays, and hospitality businesses.
 
-This repository contains short video reels designed to explore visual storytelling and promotional content for hospitality businesses.
+## ▶️ Featured Promo
 
-The goal is to demonstrate how engaging video content can help present a property, capture attention, and inspire potential guests to explore a stay.
+[**Watch the featured promo video**](https://github.com/user-attachments/assets/36c920e7-5a15-4ec2-8b20-0d4c259d5f56)
 
-## 🎬 Videos
+## 🎬 Watch the Videos
 
-The repository currently includes:
+Choose a video below. The links open the original MP4 files hosted in this repository. Depending on your browser and GitHub's preview support, a video may download instead of playing inline.
 
-- `0f453f2e-story-reels.mp4`
-- `fb8e0923-story-reels.mp4`
-- b50495fb-story-reels.mp4
-- B8b67493td.mp4
+1. **Video 1 — Story Reel** · [Open video](https://github.com/bhakriaarush/AirbnbVideos/raw/refs/heads/main/0f453f2e-story-reels.mp4)
+2. **Video 2 — Story Reel** · [Open video](https://github.com/bhakriaarush/AirbnbVideos/raw/refs/heads/main/fb8e0923-story-reels.mp4)
+3. **Video 3 — Story Reel** · [Open video](https://github.com/bhakriaarush/AirbnbVideos/raw/refs/heads/main/b50495fb-story-reels.mp4)
+4. **Video 4** · [Open video](https://github.com/bhakriaarush/AirbnbVideos/raw/refs/heads/main/B8b67493td.mp4)
 
-all videos are available in the repository's file list.
+**Having trouble with a video?** Use the *Open video* link to access the raw MP4. GitHub sometimes cannot preview larger files in its own interface. This does not necessarily mean the file or link is broken.
+
+## 💡 About This Project
+
+This project showcases short-form promotional content for hospitality and property marketing. The aim is to present a stay in an engaging way, communicate its atmosphere, and encourage potential guests to learn more.
 
 ## 🎯 Project Goals
 
-- Explore short-form video marketing for vacation rentals.
-- Create engaging promotional content for hospitality brands.
-- Develop skills in visual storytelling and digital marketing.
-- Showcase video content as part of a creative portfolio.
+- Explore short-form video marketing for vacation rentals and homestays.
+- Practise visual storytelling and promotional content creation.
+- Build a creative portfolio focused on hospitality businesses.
+- Learn how video can support a property's online presence.
 
-## 🛠️ Tools & Technologies
+## 🧰 Skills Demonstrated
 
-- Video content creation and editing
-- Short-form video marketing
+- Short-form promotional video creation
 - Visual storytelling
-
-*Specific editing tools and workflows can be added as the project develops.*
-
-## 🚀 Future Improvements
-
-- Add video previews and screenshots.
-- Include details about the creative process.
-- Document the tools used to create each reel.
-- Add campaign objectives and performance metrics when available.
+- Hospitality and property marketing concepts
+- Creative content presentation
 
 ## 👤 Creator
 
 **Aarush Bhakri**
 
-GitHub: [@bhakriaarush](https://github.com/bhakriaarush)
+- GitHub: [@bhakriaarush](https://github.com/bhakriaarush)
+- Repository: [Airbnb Video Reels](https://github.com/bhakriaarush/AirbnbVideos)
 
 ---
 
-⭐ Thank you for checking out this project!
+*This is a creative portfolio project. It does not imply affiliation with or endorsement by Airbnb.*
 
+⭐ Thanks for checking out my work!
