@@ -10,14 +10,31 @@ A portfolio of short promotional videos exploring visual storytelling for vacati
 
 ## 🎬 Watch the Videos
 
-Choose a video below. The links open the original MP4 files hosted in this repository. Depending on your browser and GitHub's preview support, a video may download instead of playing inline.
+Click any thumbnail to watch that video on YouTube. These links open the videos directly, so visitors do not need to download the MP4 files from this repository.
 
-1. **Video 1 — Story Reel** · [Open video](https://github.com/bhakriaarush/AirbnbVideos/raw/refs/heads/main/0f453f2e-story-reels.mp4)
-2. **Video 2 — Story Reel** · [Open video](https://github.com/bhakriaarush/AirbnbVideos/raw/refs/heads/main/fb8e0923-story-reels.mp4)
-3. **Video 3 — Story Reel** · [Open video](https://github.com/bhakriaarush/AirbnbVideos/raw/refs/heads/main/b50495fb-story-reels.mp4)
-4. **Video 4** · [Open video](https://github.com/bhakriaarush/AirbnbVideos/raw/refs/heads/main/B8b67493td.mp4)
+### Video 1 — Story Reel
 
-**Having trouble with a video?** Use the *Open video* link to access the raw MP4. GitHub sometimes cannot preview larger files in its own interface. This does not necessarily mean the file or link is broken.
+[![Watch Video 1 on YouTube](https://img.youtube.com/vi/BpLQwObhN4g/hqdefault.jpg)](https://youtube.com/shorts/BpLQwObhN4g)
+
+[**▶ Watch Video 1 on YouTube**](https://youtube.com/shorts/BpLQwObhN4g)
+
+### Video 2 — Story Reel
+
+[![Watch Video 2 on YouTube](https://img.youtube.com/vi/pvZhpW0lkHU/hqdefault.jpg)](https://youtube.com/shorts/pvZhpW0lkHU)
+
+[**▶ Watch Video 2 on YouTube**](https://youtube.com/shorts/pvZhpW0lkHU)
+
+### Video 3 — Story Reel
+
+[![Watch Video 3 on YouTube](https://img.youtube.com/vi/EKZx-Qs3hno/hqdefault.jpg)](https://youtube.com/shorts/EKZx-Qs3hno)
+
+[**▶ Watch Video 3 on YouTube**](https://youtube.com/shorts/EKZx-Qs3hno)
+
+### Video 4
+
+[![Watch Video 4 on YouTube](https://img.youtube.com/vi/luadoLwpFy0/hqdefault.jpg)](https://youtube.com/shorts/luadoLwpFy0)
+
+[**▶ Watch Video 4 on YouTube**](https://youtube.com/shorts/luadoLwpFy0)
 
 ## 💡 About This Project
 
