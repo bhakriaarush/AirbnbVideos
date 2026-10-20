@@ -36,6 +36,12 @@ Click any thumbnail to watch that video on YouTube. These links open the videos 
 
 [**▶ Watch Video 4 on YouTube**](https://youtube.com/shorts/luadoLwpFy0)
 
+### Video 5 — Story Reel
+
+[![Watch Video 5 on YouTube](https://img.youtube.com/vi/r0i1KkRvNfU/hqdefault.jpg)](https://youtube.com/shorts/r0i1KkRvNfU)
+
+[**▶ Watch Video 5 on YouTube**](https://youtube.com/shorts/r0i1KkRvNfU)
+
 ## 💡 About This Project
 
 This project showcases short-form promotional content for hospitality and property marketing. The aim is to present a stay in an engaging way, communicate its atmosphere, and encourage potential guests to learn more.
