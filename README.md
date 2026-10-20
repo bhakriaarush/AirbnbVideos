@@ -1,3 +1,5 @@
+
+https://github.com/user-attachments/assets/36c920e7-5a15-4ec2-8b20-0d4c259d5f56
 # Airbnb Video Reels 🏡
 
 A collection of short-form video content created for Airbnb-style property promotion, showcasing the potential of video marketing for vacation rentals and homestays.
@@ -14,9 +16,10 @@ The repository currently includes:
 
 - `0f453f2e-story-reels.mp4`
 - `fb8e0923-story-reels.mp4`
-- [b50495fb-story-reels.mp4](https://github.com/bhakriaarush/AirbnbVideos/blob/main/b50495fb-story-reels.mp4 "b50495fb-story-reels.mp4")
+- b50495fb-story-reels.mp4
+- B8b67493td.mp4
 
-Both videos are available in the repository's file list.
+all videos are available in the repository's file list.
 
 ## 🎯 Project Goals
 
