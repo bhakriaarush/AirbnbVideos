@@ -42,6 +42,12 @@ Click any thumbnail to watch that video on YouTube. These links open the videos 
 
 [**▶ Watch Video 5 on YouTube**](https://youtube.com/shorts/r0i1KkRvNfU)
 
+### Video 6 — Stay Inside Old Nashik
+
+[![Watch Video 6 on YouTube](https://img.youtube.com/vi/OUPIh_N4TsE/hqdefault.jpg)](https://youtube.com/shorts/OUPIh_N4TsE)
+
+[**▶ Watch Video 6 on YouTube**](https://youtube.com/shorts/OUPIh_N4TsE)
+
 ## 💡 About This Project
 
 This project showcases short-form promotional content for hospitality and property marketing. The aim is to present a stay in an engaging way, communicate its atmosphere, and encourage potential guests to learn more.
