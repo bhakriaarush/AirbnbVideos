@@ -1,5 +1,9 @@
 # 🏡 Airbnb Video Reels
 
+> **Disclaimer:** This is an independent, unofficial portfolio project and is not affiliated with, endorsed by, or sponsored by Airbnb or any property host. Property names, photos, videos, logos, and other third-party materials belong to their respective owners. Videos are presented as editing concepts and do not imply that a property owner hired or authorized the creator. This notice does not replace permission or a licence where one is required. Rights holders can contact the creator to discuss any concerns.
+
+---
+
 **Short-Form Property Promotions · Hospitality Marketing · Video Portfolio**
 
 A portfolio of short promotional videos exploring visual storytelling for vacation rentals, homestays, and hospitality businesses.
