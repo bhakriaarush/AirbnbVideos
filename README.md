@@ -58,6 +58,14 @@ Click any thumbnail to watch that video on YouTube. These links open the videos 
 
 [**▶ Watch Video 7 on YouTube**](https://youtube.com/shorts/yPG3YtdC5o4)
 
+### Video 8 — Viharika Villa Advertisement
+
+A cinematic villa promotional ad built around the concept **“Viharika > Other Villas”**, using short-form storytelling to showcase the property and create interest in a stay.
+
+[![Watch the Viharika villa advertisement on YouTube](https://img.youtube.com/vi/L04p-pjvdz4/hqdefault.jpg)](https://youtube.com/shorts/L04p-pjvdz4)
+
+[**▶ Watch the Viharika Villa Advertisement on YouTube**](https://youtube.com/shorts/L04p-pjvdz4)
+
 ## 💡 About This Project
 
 This project showcases short-form promotional content for hospitality and property marketing. The aim is to present a stay in an engaging way, communicate its atmosphere, and encourage potential guests to learn more.
