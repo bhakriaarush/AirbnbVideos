@@ -12,15 +12,15 @@ A portfolio of short promotional videos exploring visual storytelling for vacati
 
 [**Watch the featured promo video**](https://github.com/user-attachments/assets/36c920e7-5a15-4ec2-8b20-0d4c259d5f56)
 
+## 🎬 Watch the Videos
+
+Click any thumbnail to watch that video on YouTube. These links open the videos directly, so visitors do not need to download the MP4 files from this repository.
+
 ## 📁 Villa Advertisement Assets
 
 Access the supporting villa photos and creative assets used for the project:
 
 [**Open the Villa Assets Folder on Google Drive**](https://drive.google.com/drive/folders/12e4tpWKX-NnJueycTVwHG4AG0-OJB88U)
-
-## 🎬 Watch the Videos
-
-Click any thumbnail to watch that video on YouTube. These links open the videos directly, so visitors do not need to download the MP4 files from this repository.
 
 ### Video 1 — Story Reel
 
