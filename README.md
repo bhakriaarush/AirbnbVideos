@@ -34,11 +34,11 @@ Click any thumbnail to watch that video on YouTube. These links open the videos 
 
 [**▶ Watch Video 3 on YouTube**](https://youtube.com/shorts/EKZx-Qs3hno)
 
-### Video 4
+### Video 4 — Viharika Villa Advertisement
 
-[![Watch Video 4 on YouTube](https://img.youtube.com/vi/luadoLwpFy0/hqdefault.jpg)](https://youtube.com/shorts/luadoLwpFy0)
+[![Watch the Viharika villa advertisement on YouTube](https://img.youtube.com/vi/L04p-pjvdz4/hqdefault.jpg)](https://youtube.com/shorts/L04p-pjvdz4?si=QctHet7LAYg8pQpD)
 
-[**▶ Watch Video 4 on YouTube**](https://youtube.com/shorts/luadoLwpFy0)
+[**▶ Watch the Viharika Villa Advertisement on YouTube**](https://youtube.com/shorts/L04p-pjvdz4?si=QctHet7LAYg8pQpD)
 
 ### Video 5 — Story Reel
 
@@ -58,11 +58,11 @@ Click any thumbnail to watch that video on YouTube. These links open the videos 
 
 [**▶ Watch Video 7 on YouTube**](https://youtube.com/shorts/yPG3YtdC5o4)
 
-### Video 8 — Viharika Villa Advertisement
+### Video 8 — Story Reel
 
-[![Watch the Viharika villa advertisement on YouTube](https://img.youtube.com/vi/L04p-pjvdz4/hqdefault.jpg)](https://youtube.com/shorts/L04p-pjvdz4)
+[![Watch Video 8 on YouTube](https://img.youtube.com/vi/luadoLwpFy0/hqdefault.jpg)](https://youtube.com/shorts/luadoLwpFy0?si=waaxsKsBl2MKwkmO)
 
-[**▶ Watch the Viharika Villa Advertisement on YouTube**](https://youtube.com/shorts/L04p-pjvdz4)
+[**▶ Watch Video 8 on YouTube**](https://youtube.com/shorts/luadoLwpFy0?si=waaxsKsBl2MKwkmO)
 
 ## 💡 About This Project
 
