@@ -25,6 +25,7 @@ A vertical villa-promotion creative focused on presenting a property as an exper
 - [Read the Viharika project case study](./docs/viharika-wai-case-study.md)
 - [Explore the Viharika comparison-ad concept](./docs/viharika-comparison-ad-concept.md)
 - [Explore the Meta Ads practice lab](./docs/meta-ads-practice-lab.md)
+- [GitHub profile README draft](./docs/github-profile-readme-draft.md) — ready to copy into a profile repository named `bhakriaarush` once that repository exists.
 
 **Creative focus:** mobile-first vertical video, visual storytelling and hospitality promotion. The linked case study also outlines possible campaign tests and measurement methods without presenting hypothetical tests as actual results.
 
