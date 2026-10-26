@@ -4,10 +4,6 @@
 
 ---
 
-**Short-Form Property Promotions · Hospitality Marketing · Video Portfolio**
-
-A portfolio of short promotional videos exploring visual storytelling for vacation rentals, homestays, and hospitality businesses.
-
 ## ▶️ Featured Promo
 
 [**Watch the featured promo video**](https://github.com/user-attachments/assets/36c920e7-5a15-4ec2-8b20-0d4c259d5f56)
