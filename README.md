@@ -48,7 +48,7 @@ Click any thumbnail to watch that video on YouTube. These links open the videos 
 
 ### Video 6 — Stay Inside Old Nashik
 
-[![Video 6 thumbnail — Stay Inside Old Nashik](https://i.ytimg.com/vi/OUPIh_N4TsE/hqdefault.jpg)](https://youtube.com/shorts/OUPIh_N4TsE)
+[![Video 6 thumbnail](https://i.ytimg.com/vi/OUPIh_N4TsE/hqdefault.jpg)](https://youtube.com/shorts/OUPIh_N4TsE)
 
 [**▶ Watch Video 6 on YouTube**](https://youtube.com/shorts/OUPIh_N4TsE)
 
