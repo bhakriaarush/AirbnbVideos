@@ -64,6 +64,14 @@ Click any thumbnail to watch that video on YouTube. These links open the videos 
 
 [**▶ Watch the Viharika Villa Advertisement on YouTube**](https://youtube.com/shorts/L04p-pjvdz4)
 
+## 📁 Villa Advertisement Assets
+
+Access the supporting villa photos and creative assets used for the project:
+
+[**Open the Villa Assets Folder on Google Drive**](https://drive.google.com/drive/folders/12e4tpWKX-NnJueycTVwHG4AG0-OJB88U)
+
+> If the folder asks visitors to request access, update its Google Drive sharing settings to **Anyone with the link — Viewer** (if your account allows it).
+
 ## 💡 About This Project
 
 This project showcases short-form promotional content for hospitality and property marketing. The aim is to present a stay in an engaging way, communicate its atmosphere, and encourage potential guests to learn more.
