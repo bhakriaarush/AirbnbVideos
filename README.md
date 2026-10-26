@@ -23,6 +23,7 @@ A vertical villa-promotion creative focused on presenting a property as an exper
 **[▶ Watch the Viharika villa advertisement](https://youtube.com/shorts/L04p-pjvdz4)**
 
 - [Read the Viharika project case study](./docs/viharika-wai-case-study.md)
+- [Explore the Viharika comparison-ad concept](./docs/viharika-comparison-ad-concept.md)
 - [Explore the Meta Ads practice lab](./docs/meta-ads-practice-lab.md)
 
 **Creative focus:** mobile-first vertical video, visual storytelling and hospitality promotion. The linked case study also outlines possible campaign tests and measurement methods without presenting hypothetical tests as actual results.
